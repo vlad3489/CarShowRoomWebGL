@@ -1,0 +1,16 @@
+{
+"companyName": "BidOnGames",
+"productName": "Car-ShowRoomWebGL",
+"productVersion": "0.0.1",
+"dataUrl": "WebXrBuildRepo.data.unityweb",
+"wasmCodeUrl": "WebXrBuildRepo.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebXrBuildRepo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
